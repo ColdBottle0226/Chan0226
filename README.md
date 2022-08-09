@@ -6,6 +6,7 @@
 ● 메가스터디 IT 아카데미 빅데이터 & 머신러닝 과정 2021.07.28 ~ 2022.01.17
 
 <h2>🛠 Tech Stack</h2>
+<div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/scikitlearn-E34F26?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E">
 <img src="https://img.shields.io/badge/Apache Hadoop-E34F26?style=for-the-badge&logo=ApacheHadoop&logoColor=#66CCFF">
 <img src="https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=##E4C2C">
-
+</div>
 📫 How to reach me
 
 ● 개발 정리 : https://www.notion.so/27e6a92d8c3b4cc782ce0ae62713499a
