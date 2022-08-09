@@ -14,6 +14,9 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-E34F26?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/scikitlearn-E34F26?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E">
+<img src="https://img.shields.io/badge/Apache Hadoop-E34F26?style=for-the-badge&logo=Apache Hadoop&logoColor=#66CCFF">
+<img src="https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=PyTorch&logoColor=##E4C2C">
 
 📫 How to reach me
 
