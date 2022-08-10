@@ -23,6 +23,7 @@
 <h2>📫 How to reach me</h2>
 
 ● 개발 정리 : https://www.notion.so/27e6a92d8c3b4cc782ce0ae62713499a
+● E-mail : 3233978@naver.com
 
 <!--
 **Chan0226/Chan0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
