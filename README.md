@@ -25,6 +25,10 @@
 ● 개발 정리 : https://www.notion.so/27e6a92d8c3b4cc782ce0ae62713499a <br>
 ● E-mail : 3233978@naver.com
 
+<h2>공모전 참가</h2>
+● 2021년(제2회) NH투자증권 빅데이터 경진대회 
+
+
 <!--
 **Chan0226/Chan0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
