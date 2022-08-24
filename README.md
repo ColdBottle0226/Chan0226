@@ -27,7 +27,7 @@
 
 <h2>공모전 참가</h2>
 ● 2021년(제2회) NH투자증권 빅데이터 경진대회 
-https://dacon.io/competitions/official/235798/overview/description  26/266
+https://dacon.io/competitions/official/235798/overview/description  (26/266)
 
 
 <!--
