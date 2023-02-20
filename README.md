@@ -26,8 +26,9 @@
 <br>
 <h2>📫 How to reach me</h2>
 
-● 개발 정리 : https://www.notion.so/27e6a92d8c3b4cc782ce0ae62713499a <br>
-● E-mail : 3233978@naver.com
+● 개발 정리 : https://shadow-blanket-65e.notion.site/27e6a92d8c3b4cc782ce0ae62713499a <br>
+● E-mail : 3233978@naver.com <br>
+● 포트폴리오 : https://shadow-blanket-65e.notion.site/6333486d1e9a4457a94b9782ce367c3d
 
 <h2>공모전 참가</h2>
 ● 2021년(제2회) NH투자증권 빅데이터 경진대회 
