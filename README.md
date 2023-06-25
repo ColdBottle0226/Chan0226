@@ -17,7 +17,6 @@
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-E34F26?style=for-the-badge&logo=jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/scikitlearn-E34F26?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src ="https://img.shields.io/badge/ApacheKafka-#231F20.svg?&style=for-the-badge&logo=apachekafka&logoColor=white"/>
 
 
 
