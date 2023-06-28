@@ -32,11 +32,6 @@
 ● E-mail : 3233978@naver.com <br>
 ● 포트폴리오 : https://shadow-blanket-65e.notion.site/6333486d1e9a4457a94b9782ce367c3d
 
-<h2>공모전 참가</h2>
-● 2021년(제2회) NH투자증권 빅데이터 경진대회 
-https://dacon.io/competitions/official/235798/overview/description  (26/266)
-
-
 <!--
 **Chan0226/Chan0226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
