@@ -33,7 +33,7 @@
 
 ● 개발 정리 노션 : https://shadow-blanket-65e.notion.site/27e6a92d8c3b4cc782ce0ae62713499a <br>
 ● E-mail : 3233978@naver.com <br>
-● 포트폴리오 : https://shadow-blanket-65e.notion.site/6333486d1e9a4457a94b9782ce367c3d
+● 포트폴리오 : https://shadow-blanket-65e.notion.site/6333486d1e9a4457a94b9782ce367c3d <br>
 ● 개발블로그 : https://dailyfuncoding.tistory.com/
 
 <!--
